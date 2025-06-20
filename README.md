@@ -5,7 +5,6 @@ Dies ist das GitHub-Projekt zur persönlichen Website von **Awad Oualit (A4W4D)*
 ## 🔗 Live ansehen
 
 👉 [https://a4w4d.framer.website](https://a4w4d.framer.website)  
-(Framer-Link einfügen)
 
 ## 🛠️ Verwendete Tools
 
